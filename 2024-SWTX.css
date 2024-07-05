@@ -1,0 +1,251 @@
+@charset "utf-8";
+/* CSS Document */
+
+/********** Branding 2024 **********/
+
+
+/* replace these colors with SWTX branding*/
+:root {
+    --bloodyMary: #b20708;
+    --white: #ffffff;
+    --luckyGray: #797979;
+    --black: #000000;
+    --alphaBlack:#00000075;
+    --dkGray: #797979; /* Was #313E49 */
+  }
+
+
+  /*****Font: Open Sans*****/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+/************************************************************************* DASHBOARD AND GENERAL EFFECTS ***********************************************************************/
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+
+
+
+/*Shadow Effect*/
+
+.sm-box-shadow {
+  -webkit-box-shadow: 0px 0px 4px 0px var(--alphaBlack);
+  -moz-box-shadow: 0px 0px 4px 0px var(--alphaBlack);
+  box-shadow: 0px 0px 4px 0px var(--alphaBlack);
+}
+
+/*Border-radius*/
+
+.rounded-all {
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border: 0px solid var(--dkGray);
+}
+
+.rounded-top {
+  border-radius: 5px 5px 0px 0px;
+  -moz-border-radius: 5px 5px 0px 0px;
+  -webkit-border-radius: 5px 5px 0px 0px;
+  border: 0px solid var(--dkGray);
+}
+
+/*For images added inside of "Instructure - Canvas" tabs*/
+#img-tab-100 {
+  max-width: 100%;
+  min-width: 100%;
+}
+
+/*********Screen Reader Class********/
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0); 
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap; 
+  width: 1px;
+}
+
+
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+/******************************************************************************COURSE PAGE STYLES*******************************************************************************/
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+
+/***** CONTENT AREA STYLING *****/
+
+
+/*Syllabus buttons*/
+.swtjc-btn {
+  border: 4px solid var(--black); 
+  background-color: var(--black); 
+  color: var(--white); 
+  width: 80%; 
+  padding-top: 16px; 
+  padding-bottom: 16px; 
+  border-radius: 0;
+}
+
+.swtjc-btn:hover {
+  border: 4px solid var(--bloodyMary);
+  background-color: var(--white); 
+  color: #15265C;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  cursor: pointer;
+}
+
+/*page wrapper with red top border*/
+
+.swtjc-page-wrapper {
+  background: var(--white);
+  border-top: 20px solid var(--black); ;
+  padding-bottom: 50px;
+}
+
+/*Use text container to contain main text areas below H2s with icon --- 
+Combining as many elements as possible in one container is best practice*/
+.swtjc-text-container {
+  width: 90%;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 16px;
+}
+
+/*Use tab classes for "Instructure - Canvas" tabs when placed inside of a text container*/
+.swtjc-tab-container {
+  width: 100%;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 16px;
+}
+/*Use this class to wrap text elements inside of the tabs*/
+.swtjc-tab-inside {
+  width: 90%;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 1rem;
+}
+
+/*Use this class for hanging indent citations*/
+.swtjc-citation {
+  text-indent: -2em;
+  padding-left: 32px;
+  padding-top: 0px;
+}
+
+.swtjc-callout {
+  background-color: #15265C;
+  color: var(--white);
+  width: 75%;
+  margin: auto;
+  padding: 5px 10px 10px 5px;
+  float: right;
+  -webkit-box-shadow: 0px 0px 4px 0px var(--alphaBlack);
+  -moz-box-shadow: 0px 0px 4px 0px var(--alphaBlack);
+  box-shadow: 0px 0px 4px 0px var(--alphaBlack);
+}
+
+.swtjc-callout-title {
+  color: var(--white);
+  font-size: x-large;
+}
+
+/***** TITLES AND SUBHEADINGS *****/
+/*Use this class for all H2 headers on pages, discussions, quizzes, assignments*/
+
+.swtjc-title {
+  color: var(--black);
+ font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.9em;
+  padding-top: 24px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid var(--bloodyMary);
+}
+
+/*Use this class for all other headers (h3, h4)*/
+.swtjc-subheaders {
+  color: var(--bloodyMary);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  padding-top: 8px;
+}
+
+.swtjc-icons {
+  width: 65px;
+  height: 65px;
+  padding-right: 4px;
+  padding-left:  4px;
+}
+
+
+
+/********************************************************************************MEDIA QUERIES************************************************************************/
+
+@media only screen and (min-width: 1280px) and (max-width: 1440px) {
+  
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1280px) {
+  .swtjc-icons {
+    width: 55px;
+    height: 55px;
+  }
+
+  .swtjc-title {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1135px) {
+  .swtjc-title {
+    left:  40%;
+  }
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 991px) {
+  .swtjc-icons {
+    width: 45px;
+    height: 45px;
+  }
+
+  .swtjc-title {
+    font-size: 1.3em;
+  }
+
+  .swtjc-text-container {
+    width: 95%;
+  }
+
+
+  .swtjc-content-wrapper {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  
+  .swtjc-title {
+    left:  34%;
+  }
+
+
+
+@media only screen and (max-width: 436px) {
+  .swtjc-icons {
+    width: 25px;
+    height: 25px;
+  }
+
+  .swtjc-title {
+    font-size: 1em;
+    left: 48%;
+  }
+
+}
