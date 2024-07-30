@@ -112,8 +112,6 @@
       font-weight: 600;
   }
 
-
-
   .right-column a:focus,  .right-column a:hover {
     text-decoration: underline;
   }
@@ -149,7 +147,7 @@
 
   mark.IT {
     background-color: lightblue;
-}
+  }
 
     /*********Screen Reader Class********/
     .sr-only:not(:focus):not(:active) {
