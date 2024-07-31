@@ -465,6 +465,7 @@
 
 /* ::::::::::::::::::::::::::::::: REVISION HISTORY :::::::::::::::::::::::::::::: 
 
+NF 2024-07-31 10:38:06 - Tested some front page code but removed the changes, so no substantive changes made.
 NF 2024-07-29 20:00:10 - Added header, made header and footer 100% wide. Fixed footer paragraph padding. Added the rest of the SVGs and added homepage code. Changed the large tab numbers to H2s in the text to pacify Wave, updated the CSS to match. Made the entire button on the homepage clickable, not just the link.
 NF 2024-07-28 11:49:07 - Added footer style as a magenta block until I get the vector. Added the tech icon that I missed yesterday. Also added some advanced styles pulled from the course inline css.
 NF 2024-07-27 15:58:21 - Removed variables, lightened blacks. Added icon SVGs, made CSS comment title sections easier to fit on my screen. Removed .swtx from class names, put entire code into .idesign-swtx. Styled icons for different media queries.
