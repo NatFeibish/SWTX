@@ -592,7 +592,7 @@ Combining as many elements as possible in one container is best practice*/
 }
 
 .swtjc-callout {
-  background-color: var(--darkBorder);
+  background-color: #797979;
   color: #fff;
   width: 75%;
   margin: auto;
