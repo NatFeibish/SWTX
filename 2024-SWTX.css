@@ -8,9 +8,15 @@
   * Developed for Instructure Canvas
   * External stylesheet only
   * REVISON HISTORY - BOTTOM OF SHEET
-  * 2024-07-27 11:49:42
+  * 2024-08-07 09:16:55
   ==================================== */
-  
+  :root {
+    --red: #b20708;
+    --headingGray: #333;
+    --darkBorder:#231F20;
+    --lightborder:#797979;
+  }
+
 .idesign-swtx {
 
     .home-container {
@@ -461,10 +467,286 @@
         }
       }
 
-} /* end idesign code */
+} /* end 2024 Theme */
+
+/* ****************** ORIGINAL STYLING ************* */
+
+ /*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+/************************************************************************* DASHBOARD AND GENERAL EFFECTS ***********************************************************************/
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+
+
+
+/*Shadow Effect*/
+
+.sm-box-shadow {
+  -webkit-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+}
+
+/*Border-radius*/
+
+.rounded-all {
+  border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border: 0px solid var(--lightborder);
+}
+
+.rounded-top {
+  border-radius: 5px 5px 0px 0px;
+  -moz-border-radius: 5px 5px 0px 0px;
+  -webkit-border-radius: 5px 5px 0px 0px;
+  border: 0px solid var(--lightborder);
+}
+
+/*For images added inside of "Instructure - Canvas" tabs*/
+#img-tab-100 {
+  max-width: 100%;
+  min-width: 100%;
+}
+
+/*********Screen Reader Class********/
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0); 
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap; 
+  width: 1px;
+}
+
+
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+/******************************************************************************COURSE PAGE STYLES*******************************************************************************/
+/*******************************************************************************************************************************************************************************/
+/*******************************************************************************************************************************************************************************/
+
+/***** CONTENT AREA STYLING *****/
+
+
+/*Syllabus buttons*/
+.swtjc-btn {
+  border: 4px solid #231F20; 
+  background-color: #231F20; 
+  color: #ffffff; 
+  width: 80%; 
+  padding-top: 16px; 
+  padding-bottom: 16px; 
+  border-radius: 0;
+}
+
+.swtjc-btn:hover {
+  border: 4px solid var(--red);
+  background-color: #fff; 
+  color: var(--darkBorder);
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  cursor: pointer;
+}
+
+/*page wrapper with red top border*/
+
+.swtjc-page-wrapper {
+  background: #fff;
+  border-top: 20px solid var(--darkBorder);
+  padding-bottom: 50px;
+}
+
+/*Use text container to contain main text areas below H2s with icon --- 
+Combining as many elements as possible in one container is best practice*/
+.swtjc-text-container {
+  width: 90%;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 16px;
+}
+
+/*Use tab classes for "Instructure - Canvas" tabs when placed inside of a text container*/
+.swtjc-tab-container {
+  width: 100%;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 16px;
+}
+/*Use this class to wrap text elements inside of the tabs*/
+.swtjc-tab-inside {
+  width: 90%;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 1rem;
+}
+
+/*Use this class for hanging indent citations*/
+.swtjc-citation {
+  text-indent: -2em;
+  padding-left: 32px;
+  padding-top: 0px;
+}
+
+.swtjc-callout {
+  background-color: var(--darkBorder);
+  color: #fff;
+  width: 75%;
+  margin: auto;
+  padding: 5px 10px 10px 5px;
+  float: right;
+  -webkit-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.75);
+}
+
+.swtjc-callout-title {
+  color: #fff;
+  font-size: x-large;
+}
+
+/***** TITLES AND SUBHEADINGS *****/
+/*Use this class for all H2 headers on pages, discussions, quizzes, assignments*/
+
+.swtjc-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.9em;
+  padding-top: 24px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid var(--red);
+  color: var(--headingGray);
+}
+
+/*Use this class for all other headers (h3, h4 -red)*/
+.swtjc-subheaders {
+  color: var(--red);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  padding-top: 8px;
+}
+
+
+
+.swtjc-icons {
+  width: 65px;
+  height: 65px;
+  padding-right: 4px;
+  padding-left:  4px;
+}
+
+footer.swtx {
+  background-color: #B11F24;
+  background-image:url('data:image/svg+xml,<svg width="81" height="77" viewBox="0 0 81 77" fill="none" xmlns="http://www.w3.org/2000/svg"><g opacity="0.3"><path d="M55.7 48.0901C55.7 48.0301 55.7 47.9801 55.7 47.9401C55.7 47.9101 55.72 47.8801 55.73 47.8601C55.75 47.8001 55.78 47.7401 55.8 47.6901C63.95 41.7501 72.11 35.8101 80.26 29.8601H50.61C50.49 29.8801 50.28 29.9001 50.05 29.8401C49.96 29.8201 49.88 29.7801 49.81 29.7501C49.74 29.6601 49.67 29.5501 49.6 29.4001C49.55 29.2901 49.52 29.1901 49.49 29.1001L40.32 0.810059L31.07 29.2201C31.06 29.3001 31.03 29.4301 30.94 29.5701C30.89 29.6501 30.83 29.7201 30.78 29.7601C30.73 29.7901 30.66 29.8301 30.56 29.8501C30.47 29.8701 30.39 29.8601 30.34 29.8501H0.449993C0.449993 29.8501 0.439993 29.9201 0.429993 29.9501C8.62999 35.9001 16.82 41.8601 25.02 47.8101L15.58 76.8701L40.31 58.9101C48.55 64.8901 56.79 70.8801 65.03 76.8601C61.92 67.2901 58.82 57.7201 55.71 48.1501C55.71 48.1301 55.71 48.1101 55.7 48.0801V48.0901ZM17.91 73.5501L26.27 47.7901L26.45 47.4501L26.85 47.2101L39.89 42.9901H40.26L17.92 73.5501H17.91ZM4.82999 31.3101C4.74999 31.3001 4.63999 31.2701 4.51999 31.2201C4.38999 31.1601 4.28999 31.0901 4.21999 31.0301H31.54L32 31.3901C34.76 35.2001 37.52 39.0201 40.28 42.8301V4.92006L40.4 4.90006L48.82 30.8101V31.0301L48.66 31.3801L40.29 42.8301L76.07 31.2201L76.47 31.1801L54.53 47.1301L54.06 47.2901L40.29 42.8401C28.47 38.9901 16.66 35.1501 4.83999 31.3001L4.82999 31.3101ZM62.55 73.6101C55.23 68.2901 47.9 62.9701 40.58 57.6501C40.53 57.6101 40.41 57.5101 40.34 57.3401C40.28 57.1901 40.29 57.0501 40.3 56.9901C40.3 52.3401 40.32 47.7001 40.33 43.0501C40.44 43.1501 40.55 43.2501 40.66 43.3501L62.38 73.2401L62.55 73.6201V73.6101Z" fill="black"/><path d="M40.28 42.8401L40.27 42.8501H40.28V42.8401Z" fill="black"/></g></svg>');
+  background-position: 2px;
+  background-size: contain;
+  padding: 8px 15px 8px 0;
+  border-left: 14px solid #231F20;
+  margin: 20px 0;
+  width: 98%;
+  background-repeat: no-repeat;
+}
+
+footer.swtx p {        
+  text-align: right;
+  color: white;
+  margin: 0;
+  font-style:italic;
+  margin:0;
+  padding:0;
+}
+
+#quiz_show footer.swtx {
+  background-color:white;
+  background-image:none;
+  border-left:0px solid white;
+}
+
+#quiz_show footer.swtx p {
+  text-align: right;
+  color: #333;
+  margin: 0;
+  margin:0;
+  padding:0;
+
+}
+
+/* img#\31 669512 {
+  position:absolute;
+  left:-3000px;
+} */
+
+
+/********************************************************************************MEDIA QUERIES************************************************************************/
+
+@media only screen and (min-width: 1280px) and (max-width: 1440px) {
+  
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1280px) {
+  .swtjc-icons {
+    width: 55px;
+    height: 55px;
+  }
+
+  .swtjc-title {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1135px) {
+  .swtjc-title {
+    left:  40%;
+  }
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 991px) {
+  .swtjc-icons {
+    width: 45px;
+    height: 45px;
+  }
+
+  .swtjc-title {
+    font-size: 1.3em;
+  }
+
+  .swtjc-text-container {
+    width: 95%;
+  }
+
+
+  .swtjc-content-wrapper {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  
+  .swtjc-title {
+    left:  34%;
+  }
+
+
+
+@media only screen and (max-width: 436px) {
+  .swtjc-icons {
+    width: 25px;
+    height: 25px;
+  }
+
+  .swtjc-title {
+    font-size: 1em;
+    left: 48%;
+  }
+}
 
 /* ::::::::::::::::::::::::::::::: REVISION HISTORY :::::::::::::::::::::::::::::: 
 
+NF 2024-08-07 09:15:06 - Added previous theme CSS but updated colors
 NF 2024-07-31 10:38:06 - Tested some front page code but removed the changes, so no substantive changes made.
 NF 2024-07-29 20:00:10 - Added header, made header and footer 100% wide. Fixed footer paragraph padding. Added the rest of the SVGs and added homepage code. Changed the large tab numbers to H2s in the text to pacify Wave, updated the CSS to match. Made the entire button on the homepage clickable, not just the link.
 NF 2024-07-28 11:49:07 - Added footer style as a magenta block until I get the vector. Added the tech icon that I missed yesterday. Also added some advanced styles pulled from the course inline css.
