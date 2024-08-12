@@ -7,8 +7,9 @@
   * natalie.feibish@idesignedu.org
   * Developed for Instructure Canvas
   * External stylesheet only
+  * --
   * REVISON HISTORY - BOTTOM OF SHEET
-  * 2024-08-07 09:16:55
+  * 2024-08-08 15:01:56
   ==================================== */
   :root {
     --red: #b20708;
@@ -283,7 +284,7 @@
     }
 
     /*Use this class for all other headers (h3, h4)*/
-    .subheaders {
+    .subheaders, h2, h3 {
       color: #b20708;
       font-family: 'Open Sans', sans-serif;
       font-weight: bold;
@@ -375,55 +376,53 @@
       padding:0;
     }
 
-
-
+  
+  }
 
     /* ******************************************MEDIA QUERIES*************************************/
 
-    @media only screen and (min-width: 1280px) and (max-width: 1440px) {
-      .icon::before{
-        display: block;
-        transform: scale(0.8);
-        margin: -10px 6px 0 0;
-        float: left;
-        width: 70px;
+    @media only screen and (min-width: 1280px) {
+      .idesign-swtx .icon::before {
+          display: block;
+          transform: scale(0.8);
+          margin: -10px 6px 0 0;
+          float: left;
+          width: 70px;
       }
-    }
-
-    @media only screen and (min-width: 991px) and (max-width: 1280px) {
-      .icon::before{
-        display: block;
-        transform: scale(0.8);
-        margin: -10px 6px 0 0;
-        float: left;
-        width: 70px;
+  
+      .idesign-swtx .link-item a, .idesign-swtx .link-item {
+          font-size: 1.4rem;
       }
-
-        .title {
+  
+      .link-item .home-number a {
+          font-size: 5rem;
+      }
+  }
+  
+  @media only screen and (min-width: 991px) and (max-width: 1280px) {
+      .idesign-swtx .icon::before {
+          display: block;
+          transform: scale(0.8);
+          margin: -10px 6px 0 0;
+          float: left;
+          width: 70px;
+      }
+  
+      .idesign-swtx .title {
           font-size: 1.5em;
-        }
       }
-
-    @media only screen and (min-width: 991px) and (max-width: 1135px) {
-
-      .icon::before{
-        display: block;
-        transform: scale(0.7);
-        margin: -15px 6px 0 0;
-        float: left;
-        width: 55px;
+  
+      .idesign-swtx .link-item a, .idesign-swtx .link-item {
+          font-size: 1.3rem;
       }
-
-        .title {
-          left:  40%;
-        }
-
+  
+      .link-item .home-number a {
+          font-size: 5rem;
       }
-
-
+  }
     @media only screen and (min-width: 0px) and (max-width: 991px) {
 
-      .icon::before{
+      .idesign-swtx .icon::before{
         display: block;
         transform: scale(0.7);
         margin: -17px 6px 0 0;
@@ -432,42 +431,42 @@
       }
 
 
-        .title {
+      .idesign-swtx .title {
           font-size: 1.3em;
         }
 
-        .text-container {
+        .idesign-swtx .text-container {
           width: 95%;
         }
 
 
-        .content-wrapper {
+        .idesign-swtx .content-wrapper {
           padding-left: 16px;
           padding-right: 16px;
         }
 
         
-        .title {
+        .idesign-swtx .title {
           left:  34%;
         }
 
       }
 
     @media only screen and (max-width: 436px) {
-      .icon::before{
+      .idesign-swtx .icon::before{
         display: block;
         transform: scale(0.5);
         margin: -20px 4px 0 0;
         width: 50px;
       }
 
-        .title {
+      .idesign-swtx .title {
           font-size: 1em;
           left: 48%;
         }
       }
-
-} /* end 2024 Theme */
+    
+/* end 2024 Theme */
 
 /* ****************** ORIGINAL STYLING ************* */
 
@@ -675,10 +674,6 @@ footer.swtx p {
 
 }
 
-/* img#\31 669512 {
-  position:absolute;
-  left:-3000px;
-} */
 
 
 /********************************************************************************MEDIA QUERIES************************************************************************/
@@ -730,7 +725,7 @@ footer.swtx p {
     left:  34%;
   }
 
-
+}
 
 @media only screen and (max-width: 436px) {
   .swtjc-icons {
@@ -746,6 +741,7 @@ footer.swtx p {
 
 /* ::::::::::::::::::::::::::::::: REVISION HISTORY :::::::::::::::::::::::::::::: 
 
+NF 2024-08-08 15:01:23 - Updated H2 and H3 to not need .subheader class, though it won't hurt anything. Also increased homepage link text to be larger on bigger layouts.
 NF 2024-08-07 09:15:06 - Added previous theme CSS but updated colors
 NF 2024-07-31 10:38:06 - Tested some front page code but removed the changes, so no substantive changes made.
 NF 2024-07-29 20:00:10 - Added header, made header and footer 100% wide. Fixed footer paragraph padding. Added the rest of the SVGs and added homepage code. Changed the large tab numbers to H2s in the text to pacify Wave, updated the CSS to match. Made the entire button on the homepage clickable, not just the link.
