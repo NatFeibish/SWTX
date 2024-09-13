@@ -1,0 +1,815 @@
+<!-- accessibility-->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    
+    <h2 class="title icon information">  Students Requiring Accommodations</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Disability Support Services</h3>
+        <p>If a student in your course requires accommodations such as closed captions, please contact <a class="inline_disabled" href="https://www.swtjc.edu/academics/disability-support-services.html" target="_blank" rel="noopener">Disability Support Services</a>.</p>
+    </div>
+    <h2 class="title icon information">  Canvas Accessibility Checker</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Check Your Canvas Page</h3>
+        <p>For more information on checking the accessibility of a Canvas page, read <a class="inline_disabled" href="https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-the-Accessibility-Checker-in-the-Rich-Content/ta-p/820" target="_blank" rel="noopener">Canvas's Accessibility Checker</a> how to guide.</p>
+    </div>
+    <h2 class="title icon information">  Microsoft Word Check Accessibility</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Check Word Documents</h3>
+        <p>For more information on checking the accessibility of a Word document, read <a class="inline_disabled" href="https://support.microsoft.com/en-us/office/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f" target="_blank" rel="noopener">Improve accessibility with the Accessibility Checker</a> Microsoft webpage.</p>
+    </div>
+    <h2 class="title icon information">  PAVE PDF Accessibility</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Check PDF Documents</h3>
+        <p>For more information on checking the accessibility of a PDF document, read <a class="inline_disabled" lang="en&quot;" href="https://pave-pdf.org/?lang=en" target="_blank" rel="noopener">Four Steps to an Accessible PDF</a> using PAVE or watch the <a class="inline_disabled" href="https://youtu.be/zV74gxcwQ58" target="_blank" rel="noopener">Introduction to PAVE c2.0</a> video.</p>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+<!-- Code for New Quiz -->
+
+<p><span style="background-color: #c2e0f4;">[IT: use this page to format the quiz instructions.</span></p>
+<ul>
+    <li><span style="background-color: #c2e0f4;">Fill in all info from the iPlan in HTML.</span></li>
+    <li><span style="background-color: #c2e0f4;">Save</span></li>
+    <li><span style="background-color: #c2e0f4;">Highlight and copy quiz page (including icon) from the visual text page (not HTML)</span></li>
+    <li><span style="background-color: #c2e0f4;">Create a New Quiz</span></li>
+    <li><span style="background-color: #c2e0f4;">Paste instructions into the text box (formatting should be correct including icon, no background image)</span></li>
+    <li><span style="background-color: #c2e0f4;">If extra spacing, delete text and re-paste.</span></li>
+    <li><span style="background-color: #c2e0f4;">Select Done and add questions]</span></li>
+</ul>
+<p><br /><br /></p>
+<div style="margin: 0px 0px 24px 0px;">
+    <h2 style="color: #15265c; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 1.9em;"><strong>Quiz Title</strong></h2>
+    <div style="width: 90%; margin: auto; float: left;">
+        <h3 style="color: #cf2630; font-family: 'Open Sans', sans-serif;"><strong>Instructions</strong></h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas congue a ex non lobortis. Integer et quam sit amet orci vestibulum gravida. Mauris a neque nec diam pulvinar pellentesque sed et nibh. Nam ornare quam sit amet vestibulum blandit. Vestibulum quis mi sit amet turpis convallis sodales. Fusce pharetra iaculis volutpat. Vivamus maximus velit sit amet diam gravida, vel feugiat dolor vehicula. Donec ipsum sem, rhoncus at ornare vel, commodo id tellus. Aliquam metus enim, suscipit sed iaculis feugiat, tempus ac neque. Cras enim urna, pretium non ligula in, bibendum congue sapien. Morbi sed enim sollicitudin, pretium ipsum sit amet, elementum ex. Integer iaculis efficitur sem et efficitur.</p>
+        <h3 style="color: #cf2630; font-family: 'Open Sans', sans-serif;"><strong>Due</strong></h3>
+        <p>Due by <strong>Wednesday at 11:59 p.m. CT</strong></p>
+        <h3 style="color: #cf2630; font-family: 'Open Sans', sans-serif;"><strong>Guidelines</strong></h3>
+        <ul>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+            <li>Quiz is worth <strong>X points</strong>.</li>
+            <li><strong>Multiple Attempts</strong>: You will have two attempts for this quiz, and your highest score is recorded in the grade book.</li>
+            <li><strong>Timing</strong>: You will need to complete each of your attempts in one sitting, and you are allotted <span style="background-color: #c2e0f4;">45 minutes</span> to complete each attempt. <span style="background-color: #c2e0f4;">[IT: fill in correct time]</span></li>
+            <li><strong>Answers</strong>: You may review your answer choices and compare them to the correct answers after your final attempt.</li>
+            <li>To start, click the <strong>"Begin"</strong> button. When finished, click the <strong>"Submit"</strong> button.</li>
+        </ul>
+    </div>
+</div>
+
+<!-- COMPLETE FIRST: Cengage Course Setup Instructions -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon information">  Cengage Course Setup Instructions</h2>
+    <div class="swtjc-text-container">
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">1</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Log Into Canvas &amp; Navigate to Your Course!</h3>
+                <p>To begin setting up your <strong>MindTap, OWLv2, or WebAssign</strong> course, ensure you are in your section in Canvas and have located the "Instructor Resources" module. If you don't have a Cengage Account yet, please use the link below to request an account.</p>
+                <p>Note: <em>Account requests will need verification via email once submitted, please use your campus email address to expedite this process.</em></p>
+                <p><a class="inline_disabled" href="https://instructor.cengage.com/ssoinstructor/institution.htm?method=showSchoolSearchPage&amp;nr=y" target="_blank" rel="noopener">Request a Cengage Instructor Account</a> &gt;</p>
+            </div>
+        </div>
+        <hr />
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">2</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Copy Master Course Key</h3>
+                <p>Copy the master course key for the course you are teaching. You will find your "Cengage Course Key" in the Instructor Resources module of your Canvas course.</p>
+            </div>
+        </div>
+        <hr />
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">3</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Activate Your MindTap Links</h3>
+                <p>Click on the <strong>MindTap, OWLv2, or WebAssign Course Link</strong> in your Canvas course under Instructor Resources. Click "copy from another instructor's course" and paste the course key you copied in Step 2!</p>
+                <p><a class="inline_disabled" href="https://www.cengage.com/coursepages/uploads/7b28b784-7c3d-4571-9a7b-ce21fd06df04.png" target="_blank" rel="noopener">Verify Course Key &gt;</a></p>
+            </div>
+        </div>
+        <hr />
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">4</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Name Your Course</h3>
+                <p>Name your course. You can use this template: "COURSE1234 - LastName - StartDate" which helps Cengage identify the course in case you need any course extensions, etc.</p>
+                <p>Next, set a start and end date. Set it at least two weeks past the end of your course.</p>
+                <p>Finally, set the time zone. This step is important in case you set assignment due dates!</p>
+                <p><a class="inline_disabled" href="https://www.cengage.com/coursepages/uploads/e3cd76598f924ceecae3cbd7e30242f7_1_6722.png" target="_blank" rel="noopener">Name Your Course &gt;</a></p>
+            </div>
+        </div>
+        <hr />
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">5</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Click "I Want to Sync Individual Activity Scores."</h3>
+                <p>Ensure to select "I want to sync individual activity scores." This step is important to ensure that your students' MindTap and OWLv2 scores sync to your Canvas grade book!</p>
+                <p>For <strong>WebAssign</strong> courses, you will not be given this option as these courses use Practice sets.</p>
+                <p>For <strong>WebAssign</strong>, please note it may take up to 20 minutes for the course to fully create and be visible within your account. After this time, you can click on a WebAssign link from within Canvas to ensure the course is set up correctly. (You should see the assignment in WebAssign with student view.)</p>
+            </div>
+        </div>
+        <hr />
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">6</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Text Resources</h3>
+                <p>Select the link below to access your resources. Learn more about how to use your Instructor Resource Center here: Cengage Instructor Resource Center Tour</p>
+                <p><a class="inline_disabled" href="https://faculty.cengage.com/" target="_blank" rel="noopener">Instructor Resource Center &gt;</a></p>
+            </div>
+        </div>
+        <hr />
+        <div class="grid-row">
+            <div class="col-lg-2 col-md-12 col-sm-12">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 30px; font-size: 100px; color: #243770;">7</p>
+                </div>
+            </div>
+            <div class="col-lg-10 col-md-12 col-sm-12" style="padding-top: 20px;">
+                <h3 class="swtjc-subheaders">Contact Help</h3>
+                <p>If you need additional help:</p>
+                <p><a class="inline_disabled" href="https://cengage.force.com/s/" target="_blank" rel="noopener">Cengage Technical Support! &gt;</a></p>
+                <p><a class="inline_disabled" href="https://ng.cengage.com/static/browsercheck/index.html" target="_blank" rel="noopener">Start Here: Browser Check &gt;</a></p>
+                <p><a class="inline_disabled" href="https://www.iorad.com/player/164477/Cengage---How-to-Pull-Your-Course-Key-in-MindTap?#trysteps-1" target="_blank" rel="noopener">Course Key: Where to Find It &gt;</a></p>
+                <p><a class="inline_disabled" href="https://www.cengage.com/coursepages/uploads/56acf4b1f28ce9f907908f4f1a45d390_2_2730.pdf" target="_blank" rel="noopener">Change Course End Date &gt;</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+<!-- Course Overview -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon information">  Course Details</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Course # and Title</h3>
+        <p>add a course description here</p>
+        <h3 class="swtjc-subheaders">Syllabus</h3>
+        <p>Please take some time to review the course syllabus by selecting <strong>Simple Syllabus</strong> from the left navigation menu.</p>
+        <h3 class="swtjc-subheaders">Required Course Materials</h3>
+        <p><span style="background-color: #fbeeb8;">[Although the textbook(s) will be specified in the syllabus, it's also convenient to list it separately here so students can quickly find the information. Ensure to include the ISBN as well as any alternative formats, such as e-books. Feel free to include information on how students should obtain their texts as well if there is a standard method or options that are recommended. This item is hidden from students until you deploy it.]</span></p>
+    </div>
+    <h2 class="swtjc-title"><img id="1678738" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70710/preview" alt="Learning Outcomes icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70710" data-api-returntype="File" />Course Learning Objectives</h2>
+    <div class="swtjc-text-container">
+        <p>By the end of this course, you will be able to:</p>
+        <ol>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</li>
+        </ol>
+    </div>
+    <h2 class="title icon information">  Course Structure</h2>
+    <div class="swtjc-text-container">
+        <p>This course consists of <span style="background-color: #fbff00;">#</span> learning modules that are organized into the following topic areas:</p>
+        <ul>
+            <li>Module 1: [Title]</li>
+            <li>Module 2: [Title]</li>
+            <li>Module 3: [Title]</li>
+            <li>Module 4: [Title]</li>
+            <li>Module 5: [Title]</li>
+            <li>Module 6: [Title]</li>
+            <li>Module 7: [Title]</li>
+            <li>Module 8: [Title]</li>
+            <li>Module 9: [Title]</li>
+            <li>Module 10: [Title]</li>
+            <li>Module 11: [Title]</li>
+            <li>Module 12: [Title]</li>
+            <li>Module 13: [Title]</li>
+        </ul>
+        <p>The modules contain most (if not all) of the following components:</p>
+        <ul>
+            <li><strong>Overview:</strong> module overview, learning objectives, and activity checklist</li>
+            <li><strong>Learning Materials:</strong> readings, videos, websites, and other materials that contain the key content and information you will need to progress through the module activities and prepare for the assessment</li>
+            <li><strong>Activities:</strong> practice activities and graded assignments</li>
+            <li><strong>Wrap-up:</strong> summary and highlights of current module and preview of next module</li>
+        </ul>
+    </div>
+    <h2 class="swtjc-title"><img id="1688360" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70701/preview" alt="Activities icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70701" data-api-returntype="File" />Milestone Activities <span style="background-color: #c2e0f4;">(or Projects) [IT: adjust as per iPlan or remove]</span></h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Discussions (20%)</h3>
+        <ul>
+            <li>3 discussions worth 30 points each</li>
+        </ul>
+        <h3 class="swtjc-subheaders">Hands-on Lab (30%)</h3>
+        <ul>
+            <li>8 labs worth 50 points each</li>
+        </ul>
+        <h3 class="swtjc-subheaders">Project (30%)</h3>
+        <ul>
+            <li>Final project worth 200 points</li>
+            <li>Due in week 9</li>
+        </ul>
+        <h3 class="swtjc-subheaders">Midterm/Final Exam (20%)</h3>
+        <ul>
+            <li>Completed in week 10 worth 100 points</li>
+        </ul>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+<!-- Course User Guide -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <div class="swtjc-text-container" style="padding-top: 4%;">
+        <div class="enhanceable_content tabs swtjc-tab-container">
+            <ul>
+                <li><a href="#fragment-1">Course Navigation</a></li>
+                <li><a href="#fragment-2">Technical Support</a></li>
+                <li><a href="#fragment-3">Technical Requirements</a></li>
+                <li><a href="#fragment-4">Netiquette</a></li>
+                <li><a href="#fragment-5">Accessibility and Privacy</a></li>
+            </ul>
+            <div id="fragment-1">
+                <h2 class="title icon information">  Getting Around</h2>
+                <div class="swtjc-tab-inside">
+                    <p>There are several methods for moving through the course. You should use the way that suits you and the device you are using. All devices will give you access to the modules directory, where you will see the modules and their pages listed like a table of contents. You may access the module by clicking the links.</p>
+                    <p>Alternatively, you may click the &ldquo;Next&rdquo; buttons located at the bottom of each page to move through the module linearly. Hyperlinks are also used throughout the course in order to take you directly to the appropriate page.</p>
+                    <p>If you are using a laptop or a desktop computer, you will also have access to a left-hand navigation panel. There, you will find the following options:</p>
+                    <ul>
+                        <li><strong>Home:</strong> This is your home page and the most efficient way to begin any module in the course.</li>
+                        <li><strong>Announcements:&nbsp;</strong>You can check the Announcements from the Dashboard (the first page you see after you log in) or by the Announcements area located inside your course.&nbsp;</li>
+                        <li><strong>Syllabus: </strong>Provides you with a course overview and schedule, my contact and availability information, and information regarding academic policies and disability services on campus. Course materials are listed, and a link is provided to download the syllabus to keep a local copy.</li>
+                        <li><strong>Modules:</strong> The modules are the course content; each one begins with an introduction, followed by the course resources and activities.</li>
+                        <li><strong>Grades:</strong> You will be able to watch your progress toward completing the course.</li>
+                    </ul>
+                </div>
+                <h2 class="title icon information">  Iconography</h2>
+                <div class="swtjc-tab-inside">
+                    <p>Below is a guide to the icons used in this course:</p>
+                    <div class="container-fluid" style="margin-left: 10%; margin-right: 10%;">
+                        <div class="grid-row">
+                            <div class="col-lg-6 col-md-6 col-sm-12" style="margin: 0px; padding: 0px;">
+                                <div class="styleguide-section__grid-demo-element">
+                                    <p><img id="1678740" src="https://idesignedu.instructure.com/courses/1957/files/70701/preview" alt="Activities icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70701" data-api-returntype="File" />Activities</p>
+                                    <p><img id="1678741" src="https://idesignedu.instructure.com/courses/1957/files/70703/preview" alt="Assignments icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70703" data-api-returntype="File" /> Assignments and Papers</p>
+                                    <p><img id="1678744" src="https://idesignedu.instructure.com/courses/1957/files/70705/preview" alt="Discussion icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70705" data-api-returntype="File" />Discussions</p>
+                                    <p><img id="1678737" src="https://idesignedu.instructure.com/courses/1957/files/70706/preview" alt="Independent Learning icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70706" data-api-returntype="File" />Independent Learning</p>
+                                    <p><img id="1678750" src="https://idesignedu.instructure.com/courses/1957/files/70707/preview" alt="Information icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70707" data-api-returntype="File" /> Information</p>
+                                    <p><img id="1678742" src="https://idesignedu.instructure.com/courses/1957/files/70708/preview" alt="Introduction icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70708" data-api-returntype="File" />Introduction</p>
+                                    <p><img id="1688346" src="https://idesignedu.instructure.com/courses/1957/files/70709/preview" alt="Learning Materials icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70709" data-api-returntype="File" />Learning Materials</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12" style="margin: 0px; padding: 0px;">
+                                <div class="styleguide-section__grid-demo-element">
+                                    <p><img id="1678738" src="https://idesignedu.instructure.com/courses/1957/files/70710/preview" alt="Learning Outcomes icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70710" data-api-returntype="File" />Learning Objectives</p>
+                                    <p><img id="1688347" src="https://idesignedu.instructure.com/courses/1957/files/70711/preview" alt="Multimedia icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70711" data-api-returntype="File" />Multimedia</p>
+                                    <p><img id="1678751" src="https://idesignedu.instructure.com/courses/1957/files/70712/preview" alt="Quiz icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70712" data-api-returntype="File" />Quizzes and Assessments</p>
+                                    <p><img id="1678749" src="https://idesignedu.instructure.com/courses/1957/files/70713/preview" alt="Readings icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70713" data-api-returntype="File" />Readings</p>
+                                    <p><img id="1678743" src="https://idesignedu.instructure.com/courses/1957/files/70714/preview" alt="Reflect icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70714" data-api-returntype="File" />Reflect</p>
+                                    <p><img id="1678747" src="https://idesignedu.instructure.com/courses/1957/files/70715/preview" alt="Technology icon" width="50" height="50" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70715" data-api-returntype="File" />Technology</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="fragment-2">
+                <h2 class="title icon technology">Technical Support</h2>
+                <div class="swtjc-tab-inside">
+                    <p>The <a class="inline_disabled" href="https://www.swtjc.edu/academics/student-information-systems/information-technology.html" target="_blank" rel="noopener">Information Technology (IT) Department</a> as a whole supports our customers with a goal of having our network and systems up and running 98.86% of the time.</p>
+                    <p>The IT Department strives to maintain a modern technological presence. Our customers for whom we provide support include students, faculty, and staff, leading to a maximum level of retention and graduation in support of the college president's institutional goals.</p>
+                    <p>For assistance, email <a class="inline_disabled" href="mailto:helpdesk@swtjc.edu" target="_blank" rel="noopener">helpdesk@swtjc.edu</a> or call the number listed for your campus on the website.</p>
+                </div>
+            </div>
+            <div id="fragment-3">
+                <h2 class="title icon technology">Software</h2>
+                <div class="swtjc-tab-inside">
+                    <p>To find out the basic computer specifications needed or which browsers to use for Canvas go to, <a href="https://community.canvaslms.com/docs/DOC-2059">What Are the Browser and Computer Requirements for Instructure Products?</a></p>
+                    <p><em>Note:</em> Canvas supports several browsers but works best in Chrome and Firefox.</p>
+                </div>
+                <h2 class="title icon information">  Canvas FAQs</h2>
+                <div class="swtjc-tab-inside">
+                    <p>This course employs a Canvas learning management system (LMS). Please see the following frequently asked questions (FAQs) to ensure a smooth online learning experience.</p>
+                    <h3 class="swtjc-subheaders">Can I Access Canvas From My Phone or Tablet?</h3>
+                    <ul>
+                        <li>You can access Canvas using an Android phone, Android tablet, iOS phone, or iOS tablet. You can find more information on how to use Canvas on your mobile device in the <a href="https://community.canvaslms.com/t5/Mobile/ct-p/apps">Canvas Mobile Users.</a></li>
+                    </ul>
+                    <h3 class="swtjc-subheaders">How Do I Access My Canvas Course?</h3>
+                    <ul>
+                        <li>You will find a list of the courses that you are enrolled in under "Courses."</li>
+                    </ul>
+                    <h3 class="swtjc-subheaders">How Do I Customize My Profile and Set Notification Preferences?</h3>
+                    <ul>
+                        <li><a href="https://community.canvaslms.com/docs/DOC-1865">How Do I Edit My Profile in My User Account as a Student?</a></li>
+                        <li><a href="https://community.canvaslms.com/docs/DOC-1286">How Do I Manage My Canvas Notification Settings as a Student?</a></li>
+                    </ul>
+                    <h3 class="swtjc-subheaders">How Do I Clear My Browser Cache?</h3>
+                    <ul>
+                        <li><a href="https://community.canvaslms.com/docs/DOC-2604">How Do I Clear My Browser Cache on a PC?</a></li>
+                        <li><a href="https://community.canvaslms.com/docs/DOC-2603">How Do I Clear My Browser Cache on a Mac?</a></li>
+                    </ul>
+                    <h3 class="swtjc-subheaders">How Do I View Grades in Canvas?</h3>
+                    <ul>
+                        <li>You can check your grades by clicking on the "Grades" link in the top navigation menu or the "Grades" tab from the left-hand navigation menu inside your course.</li>
+                        <li>Canvas provides a video overview of how to check your grades. Watch: <a href="https://community.canvaslms.com/videos/1131">Grades Overview (Students)</a> (3:07) | video is closed-captioned</li>
+                    </ul>
+                    <h3 class="swtjc-subheaders">Canvas Accessibility Statement</h3>
+                    <p>Canvas provides a user experience that is easy, simple, and intuitive. Special attention has been paid to making Canvas screen-readable. The Rich Content Editor encourages users to create accessible content pages (i.e., text formatting is accomplished using styles). Canvas is designed to allow limited customization of colors and schemes to be accessible for all users. The National Federation of the Blind granted Canvas the Gold Level Web Certification in 2010. Find more information by visiting the <a href="http://www.canvaslms.com/accessibility">Canvas | Accessibility</a> webpage.</p>
+                    <h3 class="swtjc-subheaders">Canvas Privacy Policy</h3>
+                    <p>For information on Canvas's privacy policy view <a class="instructure_file_link inline_disabled" href="https://www.instructure.com/policies/privacy" target="_blank" rel="noopener">Instructure Product Privacy Notice.</a></p>
+                </div>
+            </div>
+            <div id="fragment-4">
+                <h2 class="title icon information">  Netiquette</h2>
+                <div class="swtjc-tab-inside">
+                    <p>When completing your discussion board posts, please remember the following principles of online etiquette (AKA &ldquo;netiquette&rdquo;):</p>
+                    <ul>
+                        <li>Basic courtesy. Please be courteous to the other students in the class. You might find it helpful to read your posts out loud before you submit them: The &ldquo;tone&rdquo; is a very important part of electronic communication. When you read your message out loud, does it sound the way you would speak to another student in the classroom?</li>
+                        <li>Assume the best of others in the class and expect the best from them. Never make derogatory comments toward another person in the class.</li>
+                        <li>Acknowledge the impact of sexism, racism, ethnocentrism, classism, and ageism on the lives of class members.</li>
+                        <li>Recognize and value the experiences, abilities, and knowledge each person brings to the class. Value the diversity of the class.</li>
+                        <li>Participate actively in the discussions, having completed the readings and thought about the issues.</li>
+                        <li>Pay close attention to what your classmates write in their online comments. Ask clarifying questions, when appropriate. These questions are meant to probe and shed new light, not to minimize or devalue comments.</li>
+                        <li>Be open to being challenged or confronted about your ideas or prejudices.</li>
+                        <li>Encourage others to develop and share their ideas.</li>
+                        <li>Remember to read what is already posted by your classmates to avoid repeating comments.</li>
+                        <li>Make sure you are posting under the appropriate heading or thread.</li>
+                        <li>Cite any references used.</li>
+                    </ul>
+                </div>
+            </div>
+            <div id="fragment-5">
+                <h2 class="title icon information">  Accessibility and Privacy Information</h2>
+                <div class="swtjc-tab-inside">
+                    <h3 class="swtjc-subheaders">Accessibility Statements</h3>
+                    <ul>
+                        <li><a class="inline_disabled" href="https://www.instructure.com/canvas/accessibility?newhome=canvas" target="_blank" rel="noopener">Canvas</a></li>
+                        <li><a class="inline_disabled" href="https://www.cengagegroup.com/accessibility/" target="_blank" rel="noopener">Cengage Unlimited</a></li>
+                        <li><a class="inline_disabled" href="https://support.edpuzzle.com/hc/en-us/articles/360034886311-Edpuzzle-Accessibility-VPAT-2-0" target="_blank" rel="noopener">Edpuzzle</a></li>
+                        <li><a class="inline_disabled" href="https://www.nroc.org/media/edready-accessibility-statement" target="_blank" rel="noopener">EdReady</a></li>
+                        <li><a class="inline_disabled" href="https://www.watermarkinsights.com/legal/accessibility/" target="_blank" rel="noopener">EvaluationKit</a></li>
+                        <li><a class="inline_disabled" href="https://www.hawkeslearning.com/Accessibility/index.html" target="_blank" rel="noopener">Hawkes Learning</a></li>
+                        <li><a class="inline_disabled" href="https://honorlock.com/faculty-student-faq/#section-content-3" target="_blank" rel="noopener">Honorlock</a></li>
+                        <li><a class="inline_disabled" href="https://www.labster.com/accessibility/" target="_blank" rel="noopener">Labster</a></li>
+                        <li><a class="inline_disabled" href="https://www.macmillanlearning.com/college/us/our-story/accessibility" target="_blank" rel="noopener">Macmillan Learning including Achieve, FlipIt, Hayde McNeil</a></li>
+                        <li><a class="inline_disabled" href="https://www.mheducation.com/about/accessibility.html" target="_blank" rel="noopener">McGraw Hill Connect</a></li>
+                        <li><a class="inline_disabled" href="https://www.microsoft.com/en-us/accessibility" target="_blank" rel="noopener">Microsft Office 365</a></li>
+                        <li><a class="inline_disabled" href="https://wwnorton.com/accessibility" target="_blank" rel="noopener">Norton InQuizitive</a></li>
+                        <li><a class="inline_disabled" href="https://mlm.pearson.com/northamerica/educators/accessibility/index.html" target="_blank" rel="noopener">Pearson MyLab &amp; Mastering</a></li>
+                        <li><a id="1691900" class="instructure_file_link instructure_scribd_file inline_disabled" href="https://idesignedu.instructure.com/courses/1957/files/70695?wrap=1" target="_blank" rel="noopener" data-canvas-previewable="true" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70695" data-api-returntype="File">Simple Syllabus</a></li>
+                        <li><a class="inline_disabled" href="https://www.turnitin.com/about/accessibility" target="_blank" rel="noopener">Turnitin</a></li>
+                        <li><a class="inline_disabled" href="https://tutorme.com/accessibility/" target="_blank" rel="noopener">Tutor Me</a></li>
+                        <li><a class="instructure_file_link inline_disabled" href="https://zoom.us/accessibility" target="_blank" rel="noopener">Zoom</a></li>
+                        <li><a class="inline_disabled" href="https://www.zybooks.com/accessibility/" target="_blank" rel="noopener">Zybooks</a></li>
+                    </ul>
+                    <h3 class="swtjc-subheaders">Privacy Policies</h3>
+                    <ul>
+                        <li><a class="inline_disabled" href="https://www.instructure.com/policies/privacy" target="_blank" rel="noopener">Canvas</a></li>
+                        <li><a class="inline_disabled" href="https://www.cengagegroup.com/privacy/notice/" target="_blank" rel="noopener">Cengage Unlimited</a></li>
+                        <li><a class="inline_disabled" href="https://edpuzzle.com/privacy" target="_blank" rel="noopener">Edpuzzle</a></li>
+                        <li><a class="inline_disabled" href="https://www.nroc.org/media/edready-ferpa-statement" target="_blank" rel="noopener">EdReady</a></li>
+                        <li><a class="inline_disabled" href="https://www.watermarkinsights.com/legal/privacy-statement/" target="_blank" rel="noopener">EvaluationKit</a></li>
+                        <li><a class="inline_disabled" href="https://www.hawkeslearning.com/privacy.html" target="_blank" rel="noopener">Hawkes Learning</a></li>
+                        <li><a class="inline_disabled" href="https://honorlock.com/faculty-student-faq/#section-content-3" target="_blank" rel="noopener">Honorlock</a></li>
+                        <li><a class="inline_disabled" href="https://www.labster.com/privacy-policy/" target="_blank" rel="noopener">Labster</a></li>
+                        <li><a class="inline_disabled" href="https://store.macmillanlearning.com/us/privacy-notice" target="_blank" rel="noopener">Macmillan Learning including Achieve, FlipIt, Hayde McNeil</a></li>
+                        <li><a class="inline_disabled" href="https://www.mheducation.com/privacy.html" target="_blank" rel="noopener">McGraw Hill Connect</a></li>
+                        <li><a class="inline_disabled" href="https://privacy.microsoft.com/en-us" target="_blank" rel="noopener">Microsft Office 365</a></li>
+                        <li><a class="inline_disabled" href="https://wwnorton.com/privacy-policy" target="_blank" rel="noopener">Norton InQuizitive</a></li>
+                        <li><a class="inline_disabled" href="https://support.pearson.com/getsupport/s/privacy" target="_blank" rel="noopener">Pearson Revel</a></li>
+                        <li><a class="inline_disabled" href="https://swtjc.simplesyllabus.com/en-US/privacy-policy" target="_blank" rel="noopener">Simple Syllabus</a></li>
+                        <li><a class="inline_disabled" href="https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm?_ga=2.169512097.1801005773.1659731508-960932864.1659452028" target="_blank" rel="noopener">Turnitin</a></li>
+                        <li><a class="inline_disabled" href="https://tutorme.com/privacy/" target="_blank" rel="noopener">Tutor Me</a></li>
+                        <li><a class="instructure_file_link inline_disabled" href="https://zoom.us/privacy" target="_blank" rel="noopener">Zoom</a></li>
+                        <li><a class="inline_disabled" href="https://www.zybooks.com/privacy-policy/" target="_blank" rel="noopener">Zybooks</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+<!-- Meet Your Instructor -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="swtjc-title"><img id="1678742" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70708/preview" alt="Introduction icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70708" data-api-returntype="File" />Meet Your Instructor</h2>
+    <div class="swtjc-text-container">
+        <div class="grid-row">
+            <div class="col-lg-4 col-md-12 col-sm-12" style="padding-right: 40px; padding-top: 10px;">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="text-align: center;"><img id="1667759" style="height: auto; width: 75%;" src="https://idesignedu.instructure.com/courses/1957/files/70716/preview" alt="Photo Coming Soon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70716" data-api-returntype="File" /></p>
+                </div>
+            </div>
+            <div class="col-lg-8 col-md-12 col-sm-12">
+                <div class="swtjc-callout">
+                    <div class="swtjc-text-container">
+                        <h3 class="swtjc-callout-title">Contact Information</h3>
+                        <p><strong>Professor:</strong> Enter Name Here</p>
+                        <p><strong>Email:</strong> your-email@swtjc.edu</p>
+                        <p><strong>Office Hours:</strong> Mon/Wed 8-11am</p>
+                        <p><strong>Office Location:</strong> Building 135</p>
+                        <p><strong>Office Phone:</strong> 903.415.xxxx</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Welcome to Course Code # and Title!</h3>
+        <p>Lorum ipsum dolor sit amet, consectetur adipiscing elit. Maecenas congue a ex non lobortis. Integer et quam sit amet orci vestibulum gravida. Mauris a neque nec diam pulvinar pellentesque sed et nibh. Nam ornare quam sit amet vestibulum blandit. Vestibulum quis mi sit amet turpis convallis sodales. Fusce pharetra iaculis volutpat. Vivamus maximus velit sit amet diam gravida, vel feugiat dolor vehicula. Donec ipsum sem, rhoncus at ornare vel, commodo id tellus. Aliquam metus enim, suscipit sed iaculis feugiat, tempus ac neque. Cras enim urna, pretium non ligula in, bibendum congue sapien. Morbi sed enim sollicitudin, pretium ipsum sit amet, elementum ex. Integer iaculis efficitur sem et efficitur.</p>
+        <br />
+        <p><span style="background-color: #fbeeb8;">[Faculty is encouraged to add a video for their course welcome.]</span></p>
+        <p><iframe style="width: 560px; height: 315px;" title="Video Placeholder (00:09)" src="https://www.youtube.com/embed/NpEaa2P7qZI" sandbox="allow-scripts allow-forms allow-same-origin" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *"></iframe></p>
+        <br />
+        <p><span style="background-color: #fbeeb8;">All text within this template is filler text. Please <strong>replace with your information or delete the text</strong> prior to publishing the page for the students to view.</span></p>
+        <p><span style="background-color: #fbeeb8;">To replace the image with a faculty picture, follow these steps:</span></p>
+        <ol>
+            <li><span style="background-color: #fbeeb8;">Click on<strong> Edit</strong> on the top right of the page</span></li>
+            <li><span style="background-color: #fbeeb8;">Click on the<strong> image</strong> to replace and click<strong> delete</strong> on your keyboard</span></li>
+            <li><span style="background-color: #fbeeb8;">Click on the <strong>image icon</strong> in the edit bar</span></li>
+            <li><span style="background-color: #fbeeb8;">Select <strong>Upload Images</strong></span></li>
+            <li><span style="background-color: #fbeeb8;">Drag and drop the <strong>image you want</strong> to use from your computer</span></li>
+            <li><span style="background-color: #fbeeb8;">Click <strong>Submit</strong></span></li>
+        </ol>
+        <p><span style="background-color: #fbeeb8;">To resize your picture:</span></p>
+        <ol>
+            <li><span style="background-color: #fbeeb8;">Click on the<strong> picture</strong></span></li>
+            <li><span style="background-color: #fbeeb8;">Click and <strong>drag the corner box</strong> on the image to the desired size</span></li>
+        </ol>
+        <p><span style="background-color: #fbeeb8;">When done editing the page, be sure to <strong>Click Save</strong>.</span></p>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+<!-- Module X | Assignment Preview -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon assignments">Specific Title of Assignment</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Instructions</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas congue a ex non lobortis. Integer et quam sit amet orci vestibulum gravida. Mauris a neque nec diam pulvinar pellentesque sed et nibh. Nam ornare quam sit amet vestibulum blandit. Vestibulum quis mi sit amet turpis convallis sodales. Fusce pharetra iaculis volutpat. Vivamus maximus velit sit amet diam gravida, vel feugiat dolor vehicula. Donec ipsum sem, rhoncus at ornare vel, commodo id tellus. Aliquam metus enim, suscipit sed iaculis feugiat, tempus ac neque. Cras enim urna, pretium non ligula in, bibendum congue sapien. Morbi sed enim sollicitudin, pretium ipsum sit amet, elementum ex. Integer iaculis efficitur sem et efficitur.</p>
+        <h3 class="swtjc-subheaders">Due</h3>
+        <p>Due at the end of <strong>Module X</strong></p>
+        <h3 class="swtjc-subheaders">Guidelines</h3>
+        <ul>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+            <li>Assignment is worth <strong>X points</strong> and is graded using the [Title of Assignment] Rubric. <span style="background-color: #c2e0f4;">[IT: link the rubric]</span></li>
+        </ul>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+<!-- Module X | Hands-on Work -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon independent-learning">Hands-on Work</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Skills</h3>
+        <p>List the skills students will gain in the hands-on activity.</p>
+        <h3 class="swtjc-subheaders">What You Should Know</h3>
+        <ul>
+            <li>You can complete your activities in <span style="background-color: #fbeeb8;">[location--starting in the computer lab and moving to the bay area? Near a particular machine?]</span> during <span style="background-color: #fbeeb8;">[days/times]</span>.</li>
+            <li>Bring a/some <span style="background-color: #fbeeb8;">[headset or earbuds to work on the computer on your own]</span>.</li>
+            <li>Bring your <span style="background-color: #fbeeb8;">[manual or textbook].</span></li>
+            <li>We will be using <span style="background-color: #fbeeb8;">[flathead screwdriver, Allen wrench, etc.]</span>. <span style="background-color: #fbeeb8;">These tools are provided by SWTJC, and you will find them in the lab.</span></li>
+            <li>Review your syllabus for general safety instructions.</li>
+        </ul>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+
+
+<!-- Module X | Learning Materials -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon learning-materials">Learning Materials</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Textbook Title</h3>
+        <p><strong>Read the following chapters:</strong></p>
+        <ul>
+            <li><strong>Chapter X: Chapter Title</strong> <span style="background-color: #c2e0f4;">[IT: link to Chapter &amp; Title if provided]</span> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+            <li><strong>Chapter X: Chapter Title</strong> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+            <li><strong>Chapter X: Chapter Title</strong> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+            <li><strong>Chapter X: Chapter Title</strong> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+        </ul>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Author, A. A. (Year). <em>Textbook title</em> (X ed.). Publisher and/or URL.</p>
+        <hr />
+        <h3 class="swtjc-subheaders">Article Title</h3>
+        <p>Brief overview of reading and guiding questions students should keep in mind as they read.</p>
+        <p><strong>Read the following [article/webpage/case study/booklet]:</strong> <em>Title of Article</em> <span style="background-color: #c2e0f4;">[IT: link here]</span></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Author, A. A. (Year). <em>Article title. vol#</em>(issue#), page range. Publisher and/or URL.</p>
+        <hr />
+        <h3 class="swtjc-subheaders">External Video Title</h3>
+        <p>Brief overview of video/PowerPoint and guiding questions students should keep in mind as they view the video.</p>
+        <p><strong>View the following video:</strong> <em>Title of Video</em> (00:00) | video is closed-captioned <span style="background-color: #c2e0f4;">[IT: link here and confirm captioning]</span></p>
+        <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/NpEaa2P7qZI" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Name of person/org who uploaded video. (year, month day). <em>Title of video</em> [Video]. YouTube. https://www.youtube.com</p>
+        <hr />
+        <h3 class="swtjc-subheaders">Presentation Title</h3>
+        <p>Brief overview of PowerPoint and guiding questions students should keep in mind.</p>
+        <p><strong>Download the following presentation:</strong> <a class="instructure_file_link instructure_scribd_file" href="https://idesignedu.instructure.com/courses/1957/files/70717?wrap=1" target="_blank" rel="noopener" data-canvas-previewable="true" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70717" data-api-returntype="File"><em>Presentation Slides Title</em></a> <span style="background-color: #c2e0f4;">[IT: add link to the title only; inline preview]</span></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation"><span style="background-color: #c2e0f4;">[IT: may or may not have a citation; depends on if Publisher PowerPoint]</span></p>
+        <hr />
+        <h3 class="swtjc-subheaders">Lecture Title</h3>
+        <p>Brief overview of video/PowerPoint and guiding questions students should keep in mind as they view the video.</p>
+        <p><strong>View the following lecture:</strong> <em>Title of Video</em> (00:00) | video is closed-captioned <span style="background-color: #c2e0f4;">[IT: link here and confirm captioning or add transcript if available]</span></p>
+        <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/NpEaa2P7qZI" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Name of person/org who uploaded video. (year, month day). <em>Title of video</em> [Video]. YouTube. https://www.youtube.com</p>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+
+
+<!-- Module X | Overview -->
+
+<div><img src="https://idesignedu.instructure.com/courses/1957/files/70718/download" alt="### course banner with SWTJC College logo" width="100%" height="auto" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70718" data-api-returntype="File" /></div>
+<div style="padding-bottom: 60px;">
+    <h2 class="swtjc-title"><img id="1678742" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70708/preview" alt="Introduction icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70708" data-api-returntype="File" />What to Expect</h2>
+    <div class="swtjc-text-container">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas congue a ex non lobortis. Integer et quam sit amet orci vestibulum gravida. Mauris a neque nec diam pulvinar pellentesque sed et nibh. Nam ornare quam sit amet vestibulum blandit. Vestibulum quis mi sit amet turpis convallis sodales. Fusce pharetra iaculis volutpat. Vivamus maximus velit sit amet diam gravida, vel feugiat dolor vehicula. Donec ipsum sem, rhoncus at ornare vel, commodo id tellus. Aliquam metus enim, suscipit sed iaculis feugiat, tempus ac neque. Cras enim urna, pretium non ligula in, bibendum congue sapien. Morbi sed enim sollicitudin, pretium ipsum sit amet, elementum ex. Integer iaculis efficitur sem et efficitur.</p>
+    </div>
+    <h2 class="swtjc-title"><img id="1678738" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70710/preview" alt="Learning Outcomes icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70710" data-api-returntype="File" />What You Will Learn</h2>
+    <div class="swtjc-text-container">
+        <p>By the end of this module, you will be able to: <span style="background-color: #c2e0f4;">[IT: bold the action verb, numbered list]</span></p>
+        <ol>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+        </ol>
+    </div>
+    <h2 class="swtjc-title"><img id="1678740" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70701/preview" alt="Activities icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70701" data-api-returntype="File" />What You Will Do</h2>
+    <div class="swtjc-text-container">
+        <ul>
+            <li><strong>Lorem</strong> ipsum dolor sit amet <span style="background-color: #c2e0f4;">[IT: bold the action verb, bulleted list]</span></li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+        </ul>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+
+
+<!-- Module X | Overview (with Avatar) -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="swtjc-title"><img id="1678742" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70708/preview" alt="Introduction icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70708" data-api-returntype="File" />What to Expect</h2>
+    <div class="swtjc-text-container">
+        <div class="grid-row">
+            <div class="col-lg-8 col-md-12 col-sm-12" style="padding-top: 30px;">
+                <div class="styleguide-section__grid-demo-element">
+                    <p style="padding-right: 50px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas congue a ex non lobortis. Integer et quam sit amet orci vestibulum gravida. Mauris a neque nec diam pulvinar pellentesque sed et nibh. Nam ornare quam sit amet vestibulum blandit. Vestibulum quis mi sit amet turpis convallis sodales. Fusce pharetra iaculis volutpat. Vivamus maximus velit sit amet diam gravida, vel feugiat dolor vehicula. Donec ipsum sem, rhoncus at ornare vel, commodo id tellus. Aliquam metus enim, suscipit sed iaculis feugiat, tempus ac neque. Cras enim urna, pretium non ligula in, bibendum congue sapien. Morbi sed enim sollicitudin, pretium ipsum sit amet, elementum ex. Integer iaculis efficitur sem et efficitur.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12 col-sm-12">
+                <p style="text-align: center;"><img id="70716" style="width: 70%; height: auto;" role="presentation" src="https://idesignedu.instructure.com/courses/1957/files/70716/preview" alt="" width="80%" height="80%" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70716" data-api-returntype="File" /></p>
+            </div>
+        </div>
+    </div>
+    <h2 class="swtjc-title"><img id="1678738" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70710/preview" alt="Learning Outcomes icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70710" data-api-returntype="File" />What You Will Learn</h2>
+    <div class="swtjc-text-container">
+        <p>By the end of this module, you will be able to: <span style="background-color: #c2e0f4;">[IT: bold the action verb]</span></p>
+        <ol>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+        </ol>
+    </div>
+    <h2 class="swtjc-title"><img id="1678740" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70701/preview" alt="Activities icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70701" data-api-returntype="File" />What You Will Do</h2>
+    <div class="swtjc-text-container">
+        <ul>
+            <li><strong>Lorem</strong> ipsum dolor sit amet <span style="background-color: #c2e0f4;">[IT: bold the action verb]</span></li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+            <li><strong>Lorem</strong> ipsum dolor sit amet</li>
+        </ul>
+    </div>
+</div>
+<div><img id="1669512" style="width: 100; height: auto;" src="https://idesignedu.instructure.com/courses/1957/files/70719/preview" alt="SWTJC footer Excellence, Inclusivity, Opportunities" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70719" data-api-returntype="File" /></div>
+
+
+
+<!-- Module X | Supplemental Resources -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon learning-materials">Supplemental Resources</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Textbook Title</h3>
+        <p><strong>Read the following chapters:</strong></p>
+        <ul>
+            <li><strong>Chapter X: Chapter Title</strong> <span style="background-color: #c2e0f4;">[IT: link to Chapter &amp; Title if provided]</span> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+            <li><strong>Chapter X: Chapter Title</strong> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+            <li><strong>Chapter X: Chapter Title</strong> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+            <li><strong>Chapter X: Chapter Title</strong> (pp. XX&ndash;XX)<br />Brief overview of reading and guiding questions students should keep in mind as they read.</li>
+        </ul>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Author, A. A. (Year). <em>Textbook title</em> (X ed.). Publisher and/or URL.</p>
+        <hr />
+        <h3 class="swtjc-subheaders">Article Title</h3>
+        <p>Brief overview of reading and guiding questions students should keep in mind as they read.</p>
+        <p><strong>Read the following [article/webpage/case study/booklet]:</strong> <em>Title of Article</em> <span style="background-color: #c2e0f4;">[IT: link here]</span></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Author, A. A. (Year). <em>Article title. vol#</em>(issue#), page range. Publisher and/or URL.</p>
+        <hr />
+        <h3 class="swtjc-subheaders">External Video Title</h3>
+        <p>Brief overview of video/PowerPoint and guiding questions students should keep in mind as they view the video.</p>
+        <p><strong>View the following video:</strong> <em>Title of Video</em> (00:00) | video is closed-captioned <span style="background-color: #c2e0f4;">[IT: link here and confirm captioning]</span></p>
+        <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/NpEaa2P7qZI" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Name of person/org who uploaded video. (year, month day). <em>Title of video</em> [Video]. YouTube. https://www.youtube.com</p>
+        <hr />
+        <h3 class="swtjc-subheaders">Presentation Title</h3>
+        <p>Brief overview of PowerPoint and guiding questions students should keep in mind.</p>
+        <p><strong>Download the following presentation:</strong> <a class="instructure_file_link instructure_scribd_file" href="https://idesignedu.instructure.com/courses/1957/files/70717?wrap=1" target="_blank" rel="noopener" data-canvas-previewable="true" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70717" data-api-returntype="File"><em>Presentation Slides Title</em></a> <span style="background-color: #c2e0f4;">[IT: add link to the title only; inline preview]</span></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation"><span style="background-color: #c2e0f4;">[IT: may or may not have a citation; depends on if Publisher PowerPoint]</span></p>
+        <hr />
+        <h3 class="swtjc-subheaders">Lecture Title</h3>
+        <p>Brief overview of video/PowerPoint and guiding questions students should keep in mind as they view the video.</p>
+        <p><strong>View the following lecture:</strong> <em>Title of Video</em> (00:00) | video is closed-captioned <span style="background-color: #c2e0f4;">[IT: link here and confirm captioning or add transcript if available]</span></p>
+        <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/NpEaa2P7qZI" width="560" height="315" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></p>
+        <p><strong>Citation:</strong></p>
+        <p class="swtjc-citation">Name of person/org who uploaded video. (year, month day). <em>Title of video</em> [Video]. YouTube. https://www.youtube.com</p>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+
+
+
+<!-- Module X | Wrap-up -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="swtjc-title"><img id="1678743" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70714/preview" alt="Reflect icon" width="250" height="250" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70714" data-api-returntype="File" />Wrap-up</h2>
+    <div class="swtjc-text-container">
+        <p>Include a summary of the important concepts in the module.</p>
+        <p>Before moving to the next module, ensure that you have completed all of the tasks for Module 1.</p>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+
+
+<!-- Setting Up the Course -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon information">  Course Syllabus</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Update the Syllabus</h3>
+        <p>You must ensure the most current syllabus information is located in<strong> Simple Syllabus</strong>.</p>
+        <p>You may download a copy of the Course # Syllabus as a Word Document. <span style="background-color: #c2e0f4;">[LT: link Course # Syllabus]</span></p>
+    </div>
+    <h2 class="swtjc-title"><img id="1688349" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70708/preview" alt="Introduction icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70708" data-api-returntype="File" />Meet Your Instructor</h2>
+    <div class="swtjc-text-container">
+        <h3 class="swtjc-subheaders">Update the Instructor Information</h3>
+        <strong>All text within this template is filler text. Please replace with your information or delete the text prior to publishing the page for the students to view.</strong>
+        <p>To replace the image with a faculty picture, follow these steps:</p>
+        <ol>
+            <li>Select <strong>Edit</strong> on the top right of the page</li>
+            <li>Select the <strong>image</strong> and click <strong>delete</strong> on your keyboard</li>
+            <li>Select the <strong>Image icon</strong> in the edit bar</li>
+            <li>Select <strong>Upload Images</strong></li>
+            <li>Drag and drop the image you want to use from your computer</li>
+            <li>Click <strong>Submit</strong></li>
+        </ol>
+        <p>To resize your picture:</p>
+        <ol>
+            <li>Click on the <strong>picture</strong></li>
+            <li>Click and drag the <strong>corner box on the image</strong> to the desired size</li>
+            <li>When done editing the page, select <strong>Save</strong></li>
+        </ol>
+    </div>
+    <h2 class="swtjc-title"><img id="1688351" class="swtjc-icons" src="https://swtjc.instructure.com/courses/19485/files/2115265/preview" alt="SWTJC_Quiz.png" data-api-endpoint="https://swtjc.instructure.com/api/v1/courses/19485/files/2115265" data-api-returntype="File" />Exams and Quizzes</h2>
+    <div class="swtjc-text-container">
+        <p><span style="background-color: #c2e0f4;">Note for the LT: delete this section if the course does not use Honorlock.</span></p>
+        <h3 class="swtjc-subheaders">Update Honorlock Settings</h3>
+        <ol>
+            <li>Select the Honorlock link on the left sidebar in Canvas</li>
+            <li>Select <strong>Enable</strong> to the right of each exam to access your proctoring settings</li>
+            <li>Update the settings and select <strong>Save</strong></li>
+        </ol>
+        <h5>The following exams use Honorlock:&nbsp;<span style="background-color: #c2e0f4;">Note for the LT: enter the modules and exams that use Classic Quizzes with Honorlock in this course.</span></h5>
+        <ul>
+            <li><span style="background-color: #fbeeb8;">Module X | Exam </span></li>
+            <li><span style="background-color: #fbeeb8;">Module X | Exam </span></li>
+            <li><span style="background-color: #fbeeb8;">Module X | Exam </span></li>
+        </ul>
+    </div>
+</div>
+<footer>
+    <p><em>Excellence, Inclusivity, Opportunities</em></p>
+</footer>
+
+
+
+<!-- SWTJC Student Support Information -->
+
+<article class="idesign-swtx"><div class="page-wrapper">
+    <h2 class="title icon information">  Office of the Registrar and Admissions</h2>
+    <div class="swtjc-text-container">
+        <p>The Office of the Registrar and Admissions ensures education is accessible to students by providing the opportunity to enroll at SWTJC.</p>
+        <p>To learn more about registering at SWTJC, review the <a class="inline_disabled" href="https://search.swtjc.edu/admissions-aid/office-of-the-registrar/index.html" target="_blank" rel="noopener">Registrar &amp; Admissions</a> page.</p>
+        <p>The <a class="inline_disabled" href="https://search.swtjc.edu/admissions-aid/financial-aid/index.html" target="_blank" rel="noopener">Financial Aid Office</a> provides information such as applications, forms, and guidance to students applying for financial aid. Students may complete an online application at all SWTJC campuses.</p>
+        <p>For more information on dates and deadlines of financial aid, review the <a class="inline_disabled" href="https://search.swtjc.edu/admissions-aid/financial-aid/index.html" target="_blank" rel="noopener">Financial Aid</a> page.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688348" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70707/preview" alt="Information icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70707" data-api-returntype="File" />Student Services</h2>
+    <div class="swtjc-text-container">
+        <p>The <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/student-services/index.html" target="_blank" rel="noopener">Student Services Department</a> provides various services and resources. These services are available at SWTJC campuses and via email to support student success. Some services are meant for a specific student demographic, while others are open to all SWTJC students.</p>
+        <p>Services commonly used include the Student Success Center Tutoring, Writing Center, and Writing Center Tutoring.</p>
+        <p>Other services include information on TRiO Student Support Services, TRiO Upward Bound, STEMward Bound, and Carl D. Perkins Assistance. These services include eligibility requirements.</p>
+        <p>For more information on Student Services, review the <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/student-services/index.html" target="_blank" rel="noopener">Student Services Department</a> page.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688355" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70706/preview" alt="tutoring icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70706" data-api-returntype="File" />Tutoring Services</h2>
+    <div class="swtjc-text-container">
+        <p>The <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/student-services/studentsuccescenter-tutoring.html" target="_blank" rel="noopener">Student Success Center Tutoring</a> provides tutoring that is helpful to all. These services are available at all SWTJC campuses and virtually by appointment using Microsoft Teams.</p>
+        <p>Review the <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/student-services/studentsuccescenter-tutoring.html" target="_blank" rel="noopener">Student Success Center Tutoring</a> page for more information on booking an appointment for Tutoring Services.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688353" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70714/preview" alt="reflect icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70714" data-api-returntype="File" />Counseling Services</h2>
+    <div class="swtjc-text-container">
+        <p>The <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/counseling-and-advising/index.html" target="_blank" rel="noopener">Academic Advising/Counseling Services</a> provides a Success Coaches community that welcomes first-time and returning students to SWTJC. The Success Coaches will assist students in achieving their educational goals by walking them through the process. This service is provided at Crystal City, Eagle Pass, Del Rio, and Uvalde campuses.</p>
+        <p>The Success Coaches will help students set goals, and academic and career plans. Review the <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/counseling-and-advising/index.html" target="_blank" rel="noopener">Academic Advising</a> page to make an appointment with your Success Coach.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688350" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70710/preview" alt="support icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70710" data-api-returntype="File" />Disability Support Services</h2>
+    <div class="swtjc-text-container">
+        <p>The Disability Support Services (DSS) provides services that ensure all students have equal access to quality education. DSS strives to help a student with a disability to fully participate in college life.</p>
+        <p>To obtain a hard copy of the &ldquo;DSS Handbook for Students,&rdquo; please contact Teresa Crow at (830) 591-2908 or review the <a class="inline_disabled" href="https://www.swtjc.edu/documents/student_services/Handbook_for_Students_with_Disabilities-June2023.pdf" target="_blank" rel="noopener">DSS Handbook for Students</a> page.</p>
+        <p>For more information on classroom accommodations or to schedule an appointment, review the <a class="inline_disabled" href="https://www.swtjc.edu/academics/disability-support-services.html" target="_blank" rel="noopener">Disability Support Services</a> page.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688354" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70715/preview" alt="Technology icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70715" data-api-returntype="File" />Technical Support</h2>
+    <div class="swtjc-text-container">
+        <p>The <a class="inline_disabled" href="https://www.swtjc.edu/academics/student-information-systems/information-technology.html" target="_blank" rel="noopener">Information Technology (IT) Department</a> provides help to students who are experiencing network and system issues. The IT Department is located at the Uvalde, Del Rio, and Eagle Pass campuses.</p>
+        <p>Review the <a class="inline_disabled" href="https://www.swtjc.edu/academics/student-information-systems/information-technology.html" target="_blank" rel="noopener">Technical Support</a> page for more information or to contact the IT Department.</p>
+        <p>The <a class="inline_disabled" href="https://www.swtjc.edu/academics/student-information-systems/canvas.html" target="_blank" rel="noopener">Canvas Administrator</a>&nbsp; provides help to students who are experiencing Canvas application issues.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688355" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70706/preview" alt="library icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70706" data-api-returntype="File" />Library</h2>
+    <div class="swtjc-text-container">
+        <p>The <a class="inline_disabled" href="https://library.swtjc.edu/roombooking" target="_blank" rel="noopener">Library</a> allows students to perform research, ask questions, and book a study room through the library services and a partnership between SWTJC and Sul Ross Library.</p>
+        <p>For more information or to contact the Library, review the <a class="inline_disabled" href="https://library.swtjc.edu/roombooking" target="_blank" rel="noopener">Library</a> page.</p>
+    </div>
+    <h2 class="swtjc-title" style="padding-top: 0px;"><img id="1688357" class="swtjc-icons" src="https://idesignedu.instructure.com/courses/1957/files/70704/preview" alt="Calendar icon" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70704" data-api-returntype="File" />Events</h2>
+    <div class="swtjc-text-container">
+        <p>The <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/events/index.html" target="_blank" rel="noopener">Events</a> provides a calendar of dates and events to support students in their endeavors as a student at SWTJC, both academically and personally.</p>
+        <p>For more information, review the <a class="inline_disabled" href="https://www.swtjc.edu/campus-life/events/index.html" target="_blank" rel="noopener">Events</a> page.</p>
+    </div>
+</div>
+<div><img id="1680145" style="width: 100%; height: auto;" src="https://idesignedu.instructure.com/courses/1957/files/70719/preview" alt="SWTJC footer Excellence, Inclusivity, Opportunities" data-api-endpoint="https://idesignedu.instructure.com/api/v1/courses/1957/files/70719" data-api-returntype="File" /></div>
